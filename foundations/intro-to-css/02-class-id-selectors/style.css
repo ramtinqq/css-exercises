@@ -1,0 +1,21 @@
+.odd_paragraph {
+background-color: pink;
+font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+#first_div_id {
+color: blue;
+font-size: 36px;
+}
+
+.odd_paragraph.big {
+font-size: 24px;
+
+}
+
+#second_div_id {
+background-color:lightgreen;
+font-size: 24px;
+font-weight: bold;
+}
+]
